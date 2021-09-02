@@ -9,8 +9,10 @@ public class Pyramid {
             
             for(int k = 0;k<i;++k){
                 temp = (int)(Math.pow(2,k)) ;
+
                 System.out.print("\t");
                 System.out.print(temp);
+    
                 
             }
             for(int l = i-2 ; l >=0;--l){
@@ -18,6 +20,7 @@ public class Pyramid {
                 if(i != 1){
                     System.out.print("\t");
                     System.out.print(temp);
+                    
                 }
 
             }
