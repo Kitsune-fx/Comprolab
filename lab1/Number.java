@@ -1,7 +1,4 @@
 public class Number {
-    //-----------------------------------------------------------------
-    //program by Kan 642115003
-    //-----------------------------------------------------------------
     public static void main(String[] args) {
         System.out.println(3+15/5-2+2*3);
         System.out.println(3*3+3%2-5+(3/2));
