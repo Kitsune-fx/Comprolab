@@ -1,7 +1,4 @@
 public class Countdown{
-    //-----------------------------------------------------------------
-    //program by Kan 642115003
-    //-----------------------------------------------------------------
 
     public static void main(String[] args) {
         System.out.print("Three....");
