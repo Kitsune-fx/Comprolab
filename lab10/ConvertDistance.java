@@ -17,11 +17,11 @@ public class ConvertDistance {
     }
 
     public static void mileToKilo(double mile){
-        System.out.printf("\t %.3f \t \n",mile*1.609);
+        System.out.printf("\t %.4f \t \n",mile*1.609);
     }
 
     public static void kiloToMile(double kilo){
-        System.out.printf("\t %.3f \t \n",kilo/1.609);
+        System.out.printf("\t %.4f \t \n",kilo/1.609);
     }
 
 }
